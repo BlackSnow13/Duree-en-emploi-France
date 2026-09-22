@@ -1,4 +1,3 @@
-# Duree-en-emploi-France
 # 📊 Analyse Économétrique : Déterminants de la Durée en Emploi en France
 
 > **Projet académique de Data Analysis / Économétrie (L3 Économie-Gestion)** — Étude empirique des trajectoires professionnelles de jeunes actifs à partir de l'enquête *Génération 98* du CEREQ.
